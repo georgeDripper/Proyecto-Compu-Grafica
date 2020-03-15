@@ -1,0 +1,9 @@
+﻿  Main_P6.cpp
+c:\users\georgedripper\source\repos\pract6\pract6\main_p6.cpp(180): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\pract6\pract6\main_p6.cpp(400): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\pract6\pract6\main_p6.cpp(401): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\pract6\pract6\main_p6.cpp(405): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\pract6\pract6\main_p6.cpp(406): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\pract6\pract6\main_p6.cpp(408): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+c:\users\georgedripper\source\repos\pract6\pract6\main_p6.cpp(409): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  pract6.vcxproj -> C:\Users\GeorgeDRipper\source\repos\pract6\Debug\pract6.exe
